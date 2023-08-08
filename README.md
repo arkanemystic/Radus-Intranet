@@ -7,6 +7,6 @@ Please note that a core file is missing (node_modules) and the following command
 
 To run on localhost, do the following:
 1. export NODE_OPTIONS=--openssl-legacy-provider (only needed on startup)
-2. npm run
+2. npm start
 
 Thanks
