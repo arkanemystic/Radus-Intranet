@@ -1,8 +1,8 @@
-# Radus Software Onboarding Portal 🚀
+# Radus Software Onboarding Portal 
 
 A modern onboarding portal built with React.js that streamlines the user authentication process through Google Suite integration. This portal provides seamless access to Google services with one-click automation.
 
-## 🌟 Features
+## Features
 
 - Dynamic login/signup interface
 - Google Authentication integration
@@ -11,7 +11,7 @@ A modern onboarding portal built with React.js that streamlines the user authent
 - Secure authentication flow
 - Single Sign-On (SSO) capability
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React.js
 - Node.js
@@ -19,14 +19,14 @@ A modern onboarding portal built with React.js that streamlines the user authent
 - HTML/CSS
 - npm package manager
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 Before running this project, make sure you have the following installed:
 - Node.js (Latest LTS version recommended)
 - npm (Comes with Node.js)
 - A modern web browser
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 1. Clone the repository:
 ```bash
@@ -51,7 +51,7 @@ npm start
 
 The application will be available at `http://localhost:3000`
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 If you encounter any issues:
 
@@ -71,14 +71,14 @@ export NODE_OPTIONS=--openssl-legacy-provider
 PORT=3001 npm start
 ```
 
-## 📝 Important Notes
+## Important Notes
 
 - The `node_modules` directory is not included in the repository (as per best practices)
 - Always run `npm install` after cloning
 - The OpenSSL legacy provider command is only needed on startup
 - Make sure your Google API credentials are properly configured
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -86,7 +86,7 @@ PORT=3001 npm start
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details
 
